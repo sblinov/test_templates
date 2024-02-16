@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+    <item>
+        <country>China</country>
+        <population>1415045928</population>
+        <yearlyChange>0.0039</yearlyChange>
+    </item>
+    <item>
+        <country>India</country>
+        <population>1354051854</population>
+        <yearlyChange>0.0111</yearlyChange>
+    </item>
+    <item>
+        <country>U.S.</country>
+        <population>326766748</population>
+        <yearlyChange>0.0071</yearlyChange>
+    </item>
+</root>
